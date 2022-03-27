@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on automation
 - 📫 How to reach me instagram
-- :spider_web: www Website with some projects: https://app.powerbi.com/view?r=eyJrIjoiYzE3OTgxOWEtYTkzYS00ZGNmLWE1ZGMtMDYzOTA3ODIyNWY3IiwidCI6IjdjOWMyMjljLTYwMWItNDg3ZC1hOTk2LWQxYWRiZTg5N2ZhZSJ9&embedImagePlaceholder=true&pageName=ReportSection56061243a6cb5154e484
+- :spider_web: Website with some projects: https://app.powerbi.com/view?r=eyJrIjoiYzE3OTgxOWEtYTkzYS00ZGNmLWE1ZGMtMDYzOTA3ODIyNWY3IiwidCI6IjdjOWMyMjljLTYwMWItNDg3ZC1hOTk2LWQxYWRiZTg5N2ZhZSJ9&embedImagePlaceholder=true&pageName=ReportSection56061243a6cb5154e484
 
 <!---
 geanclm/geanclm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
