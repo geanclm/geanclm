@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on automation
 - 📫 How to reach me instagram
 - :spider_web: Website with some projects https://geanclm.github.io/projeto-site/
+- - :spider_web: Site flask deploed in heroku https://geanclm.herokuapp.com/
 
 <!---
 geanclm/geanclm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
